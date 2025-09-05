@@ -10,14 +10,14 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
-    "motion": "^12.23.12",
+    "framer-motion": "^12.0.0-alpha.1",
     "next": "15.5.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "tailwind-merge": "^3.3.1"
   },
    "overrides": {
-    "motion": {
+     "framer-motion": {
       "react": "19.0.0-rc-66855b96-20241106",
       "react-dom": "19.0.0-rc-66855b96-20241106"
     }},
